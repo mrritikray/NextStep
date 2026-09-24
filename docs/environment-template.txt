@@ -1,0 +1,10 @@
+# Copy these values into a local .env file when running outside the managed WebDev environment.
+# GEMINI_API_KEY is optional; deterministic demo fallbacks are used when it is blank.
+GEMINI_API_KEY=
+DATABASE_URL=
+JWT_SECRET=
+VITE_APP_ID=
+OAUTH_SERVER_URL=
+OWNER_OPEN_ID=
+BUILT_IN_FORGE_API_URL=
+BUILT_IN_FORGE_API_KEY=
