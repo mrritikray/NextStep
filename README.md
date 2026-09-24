@@ -48,3 +48,4 @@ is created automatically on boot. Tables: `profiles`, `resumes`, `opportunities`
 The legacy MySQL `DATABASE_URL` from the Manus scaffold is no longer used.
 
 See `IMPLEMENTATION_NOTES.md` for the full architecture and the verification log.
+# NextStep
